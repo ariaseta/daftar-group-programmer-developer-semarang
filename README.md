@@ -9,7 +9,7 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
   + [Santren Koding](https://t.me/santrenkoding)
   + [Android Mastery](https://t.me/androidmastery)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
-
+  + [Programmer Semarang](https://t.me/programersemarangraya)
 
 
 
