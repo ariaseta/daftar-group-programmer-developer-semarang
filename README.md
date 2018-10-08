@@ -11,6 +11,11 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [Programmer Semarang](https://t.me/programersemarangraya)
   + [SemarangJS](https://t.me/semarangjs)
+  + [Odoo Semarang](https://t.me/odoosemarang)
+  
+### Startup
+
+  + [Startup Semarang aka SmartUp](http://semarangstartup.com/)
 
 
 
