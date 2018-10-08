@@ -4,7 +4,7 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 
 ## List
 
-### Programming Language
+### Programming Language & Related
 
   + [Santren Koding](https://t.me/santrenkoding)
   + [Android Mastery](https://t.me/androidmastery)
@@ -12,10 +12,16 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
   + [Programmer Semarang](https://t.me/programersemarangraya)
   + [SemarangJS](https://t.me/semarangjs)
   + [Odoo Semarang](https://t.me/odoosemarang)
+  + [CloudJoglo - DevOps Semarang](https://t.me/cloudjoglo)
   
 ### Startup
 
   + [Startup Semarang aka SmartUp](http://semarangstartup.com/)
+  
+### Programming for Kids [SD/SMP/SMA/SMK]
+
+  + [firodev](https://t.me/firodev)
+  
 
 
 
