@@ -33,6 +33,7 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Karena belum ada, silahkan buat Pull Request :)
 
 ## Listed by *Ariaseta Setia Alam*
 - Email: 07ariaseta@gmail.com
