@@ -18,6 +18,10 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 
   + [Startup Semarang aka SmartUp](http://semarangstartup.com/)
   
+### OpenSource Community
+
+  + [Dinus Open Source Community](https://t.me/doscomedia)
+
 ### Programming for Kids [SD/SMP/SMA/SMK]
 
   + [firodev](https://t.me/firodev)
@@ -29,6 +33,7 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details contributing this repo.
+
 
 ## Listed by *Ariaseta Setia Alam*
 - Email: 07ariaseta@gmail.com
