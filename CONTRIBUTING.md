@@ -10,3 +10,4 @@ Jika kamu butuh panduan dalam melakukan Pull Request, silahkan mengikuti petunju
 - Pastikan fork repository telah up to date. [Baca ini](https://gist.github.com/CristinaSolana/1885435)
 - Setelah selesai lakukan git push ke branch kamu. [Baca ini](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 - Terakhir Buat Pull Request. [Baca ini](https://help.github.com/articles/creating-a-pull-request/)
+selesai kontribusi
