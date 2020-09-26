@@ -1,4 +1,5 @@
 # Daftar Group Programmer & Developer Semarang
+List All Programming Telegram Group Semarang
 
 Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Semarang
 
@@ -7,12 +8,11 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 ### Programming Language & Related
 
   + [Santren Koding](https://t.me/santrenkoding)
-  + [Android Mastery](https://t.me/androidmastery)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
   + [Programmer Semarang](https://t.me/programersemarangraya)
   + [SemarangJS](https://t.me/semarangjs)
-  + [Odoo Semarang](https://t.me/odoosemarang)
-  + [CloudJoglo - DevOps Semarang](https://t.me/cloudjoglo)
+  + [Wordpress Semarang](https://t.me/wpsemarang)
+
   
 ### Startup
 
@@ -26,10 +26,6 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 
   + [firodev](https://t.me/firodev)
   
-
-
-
-
 
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details contributing this repo.
